@@ -55,6 +55,7 @@ public class ProdutoService {
     public void deletar(Integer id) {
         // Poderia ter alguma lógica de validação aqui.
         produtoRepository.deletar(id);
+
     }
 
     /**

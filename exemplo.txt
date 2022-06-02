@@ -11,5 +11,5 @@ Repositório de produto OK
 Serviço de Produto OK
     obterTodos, obterPorId, adicionar, atualizar, deletar.
 
-Controller de produto
+Controller de produto OK
     obterTodos, obterPorId, adicionar, atualizar, deletar.

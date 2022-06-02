@@ -12,6 +12,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class ProdutoRepository {
 
+    //Simulando o banco de dados
     private List<Produto> produtos = new ArrayList<Produto>();
     private Integer ultimoId = 0;
 

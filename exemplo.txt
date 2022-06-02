@@ -12,4 +12,4 @@ Serviço de Produto OK
     obterTodos, obterPorId, adicionar, atualizar, deletar.
 
 Controller de produto
-    obterTodos, obterPorId, adicionar, atualizar, deletar.
+    obterTodos, obterPorId, adicionar, atualizar, deletar.teste

@@ -88,4 +88,16 @@ public class ProdutoRepository_old {
         produtos.add(produto);
         return produto;
     }
+
+    public List<Produto> findAll() {
+        return null;
+    }
+
+    public Optional<Produto> findById(Integer id) {
+        return null;
+    }
+
+    public Produto save(Produto produto) {
+        return null;
+    }
 }
